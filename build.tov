@@ -1,0 +1,66 @@
+// BLR Openings: renders data.json into a static single page (dist/index.html).
+//   tov run build.tov
+import { readFileSync, writeFileSync, mkdirSync } from "node:fs"
+
+type Post = { slug: string, name: string, type: string, area: string, opened: string, note: string, body: string[], sources: string[], featured?: bool }
+type Data = { updated: string, posts: Post[] }
+
+function esc(s: string): string {
+  return s.split("&").join("&amp;").split("<").join("&lt;").split(">").join("&gt;").split("\"").join("&quot;")
+}
+
+function host(u: string): string {
+  const p = URL.parse(u)
+  if (p === undefined) return u
+  return p.hostname.split("www.").join("")
+}
+
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+
+// "2026-10-09" -> "Oct 9 2026"
+function fmtDate(iso: string): string {
+  const parts = iso.split("-")
+  if (parts.length < 3) return iso
+  const m = (parseInt(parts[1] ?? "0") ?? 0)
+  const day = (parseInt(parts[2] ?? "0") ?? 0)
+  if (m < 1 || m > 12) return iso
+  return `${MONTHS[m - 1] ?? ""} ${day} ${parts[0] ?? ""}`
+}
+
+// "2026-10-11 00:59" -> "Oct 11 2026, 12:59 AM IST"
+function fmtStamp(s: string): string {
+  const dt = s.split(" ")
+  if (dt.length < 2) return fmtDate(s)
+  const hm = (dt[1] ?? "0:00").split(":")
+  const h = (parseInt(hm[0] ?? "0") ?? 0)
+  const ap = h < 12 ? "AM" : "PM"
+  const h12 = h % 12 === 0 ? 12 : h % 12
+  return `${fmtDate(dt[0] ?? "")}, ${h12}:${hm[1] ?? "00"} ${ap} IST`
+}
+
+function card(p: Post): string {
+  let paras = ""
+  for (const b of p.body) paras += `<p>${esc(b)}</p>`
+  let src = ""
+  for (const s of p.sources) src += `<a href="${esc(s)}" target="_blank" rel="noopener">${esc(host(s))}</a> `
+  const cls = p.featured === true ? "post featured" : "post"
+  return `<article class="${cls}" id="${esc(p.slug)}"><div class="meta"><span class="tag">${esc(p.type)}</span> ${esc(p.area)} · opened ${esc(fmtDate(p.opened))}</div><h2><a href="#${esc(p.slug)}">${esc(p.name)}</a></h2><p class="note">${esc(p.note)}</p>${paras}<div class="src">Source: ${src}</div></article>`
+}
+
+function main() {
+  const d: Data = try JSON.parse(try readFileSync("data.json", "utf8"))
+  const posts = d.posts.slice()
+  posts.sort((a, b) => a.opened < b.opened ? 1 : (a.opened > b.opened ? -1 : 0))
+  let feat = ""
+  let rest = ""
+  for (const p of posts) {
+    if (p.featured === true) feat += card(p)
+    else rest += card(p)
+  }
+  const css = "body{margin:0;background:#FFE14D;color:#111;font:17px/1.55 Georgia,serif}main{max-width:720px;margin:auto;padding:40px 20px}h1{font:900 44px/1 system-ui,sans-serif;letter-spacing:-1px;margin:0}.sub{font-family:system-ui;margin:8px 0 32px}.post{background:#fff;border:2px solid #111;padding:20px 22px;margin:0 0 18px;box-shadow:5px 5px 0 #111}.featured{border-width:3px}.featured h2{font-size:34px}h2{font:800 24px system-ui,sans-serif;margin:6px 0}h2 a{color:inherit;text-decoration:none}.meta,.src{font:13px system-ui;color:#444}.tag{background:#111;color:#FFE14D;padding:2px 7px;font-weight:700}.note{font-style:italic}.src a{color:#111}:target{outline:4px solid #e63}footer{font:13px system-ui;margin-top:30px}"
+  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BLR Openings: new food &amp; drink in Bangalore</title><meta name=\"description\" content=\"New food and drink openings in Bangalore, with sources.\"><style>${css}</style></head><body><main><h1>BLR Openings</h1><p class="sub">New food &amp; drink openings in Bangalore, refreshed daily at 8am IST. <b>Last updated: ${esc(fmtStamp(d.updated))}</b></p>${feat}${rest}<footer>Every entry links to its source. Built with <a href="https://github.com/richiemcilroy/Tov">Tov</a> from <a href="data.json">data.json</a>.</footer></main></body></html>`
+  try mkdirSync("dist", { recursive: true })
+  try writeFileSync("dist/index.html", html)
+  try writeFileSync("dist/data.json", try readFileSync("data.json", "utf8"))
+  console.log(`dist/index.html: ${posts.length} posts`)
+}
