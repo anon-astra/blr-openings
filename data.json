@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13 08:03",
+  "updated": "2026-10-14 08:04",
   "posts": [
+    {
+      "slug": "kura-indiranagar",
+      "name": "Kura",
+      "type": "Specialty coffee & all-day café",
+      "area": "Indiranagar",
+      "opened": "2026-10-13",
+      "note": "3,000 sq ft specialty coffee café with an in-house bakery and a French–Japanese all-day kitchen.",
+      "body": [
+        "Kura, named after the Japanese word for a storehouse of treasured possessions, is a new 3,000 sq ft specialty coffee and all-day dining space in Indiranagar from first-time founders Kiran Vijayakumar and Prajwal Venugopal.",
+        "The coffee programme features Indian coffees from the Northeast, Himalayan foothills, Koraput, Araku and the Western Ghats alongside international roasters, with milk-clarified coffees, Frost blended cold brew and three-beverage coffee journeys.",
+        "The kitchen pairs French technique with Japanese precision: house-laminated viennoiserie, pastries and hand-rolled pasta, plus Eggs Benedict, seafood and New Zealand lamb rack on the all-day menu."
+      ],
+      "sources": [
+        "https://concierge-india.com/news/restaurant/bangalore/kura-specialty-coffee-bengaluru"
+      ]
+    },
     {
       "slug": "bahati-kasturba-road",
       "name": "Bahati",
@@ -53,6 +69,21 @@
       "body": [],
       "sources": [
         "https://hospitalitynews.in/news/blr-brewing-co-opens-seventh-outlet-in-yelahanka-bengaluru"
+      ]
+    },
+    {
+      "slug": "druma-jayanagar",
+      "name": "Druma",
+      "type": "Vegetarian restaurant",
+      "area": "Jayanagar 4th Block (Cosmopolitan Club)",
+      "opened": "2026-10-06",
+      "note": "60-cover contemporary vegetarian restaurant mixing Indian, South Indian, Pan-Asian and global plates. About ₹2,200 for two.",
+      "body": [
+        "Druma is a 2,100 sq ft, 60-cover vegetarian restaurant at the Cosmopolitan Club in Jayanagar 4th Block, built around the idea of 'humble dining' with a design drawn from Kannada culture and South Indian architecture.",
+        "Signature plates include a Mushroom Cappuccino with khari, Samosa Mille Feuille Chaat, Pesto Kunafa Tofu and a Chettinad Paneer Quesadilla made with Malabar parotta. It's open 12:30 pm to midnight."
+      ],
+      "sources": [
+        "https://www.hospemag.me/cms/druma-vegetarian-restaurant-jayanagar-bengaluru"
       ]
     },
     {
