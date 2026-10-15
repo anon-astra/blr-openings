@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14 08:04",
+  "updated": "2026-10-15 08:15",
   "posts": [
+    {
+      "slug": "friyo-indiranagar",
+      "name": "Friyo",
+      "type": "Frozen Greek yogurt & açaí bar",
+      "area": "Indiranagar",
+      "opened": "2026-10-13",
+      "note": "Artisanal frozen Greek yogurt and açaí soft-serve bar with in-house bases and a build-your-own toppings bar. About ₹250–450 per person.",
+      "body": [
+        "Friyo is a new frozen Greek yogurt and açaí soft-serve bar in Indiranagar from founders Debasis Das and Subhasmita Panigrahi, built around small-batch, in-house bases rather than premixes.",
+        "Classic and chocolate frozen Greek yogurt sit alongside a vegan açaí soft-serve and a Mixed Swirl that combines both. Signature cups include Oops All Biscoff, Just Like Snickers, Cherry on Top and Glow Cup, with a toppings bar of house sauces and crunch mixes.",
+        "Desserts are priced about ₹250–450 per person."
+      ],
+      "sources": [
+        "https://concierge-india.com/news/restaurant/bangalore/friyo-brings-frozen-greek-yogurt-and-acai-to-bengaluru"
+      ]
+    },
     {
       "slug": "kura-indiranagar",
       "name": "Kura",
@@ -100,6 +116,18 @@
       ]
     },
     {
+      "slug": "dindigul-thalappakatti-koramangala",
+      "name": "Dindigul Thalappakatti",
+      "type": "South Indian restaurant",
+      "area": "Koramangala 7th Block",
+      "opened": "2026-10-01",
+      "note": "New Koramangala outlet of the Dindigul biryani brand, inaugurated by Kannada actor Shivarajkumar.",
+      "body": [],
+      "sources": [
+        "https://www.businessoffood.in/dindigul-thalappakatti-opens-new-outlet-in-bengaluru/"
+      ]
+    },
+    {
       "slug": "toast-house-indiranagar",
       "name": "Toast House",
       "type": "Café",
@@ -169,6 +197,22 @@
       "body": [],
       "sources": [
         "https://hospitalitynews.in/news/roastery-coffee-houses-coffee-comes-home-to-bengaluru"
+      ]
+    },
+    {
+      "slug": "masterpiece-buffet-kadubeesanahalli",
+      "name": "Masterpiece Buffet",
+      "type": "Buffet restaurant & nightlife",
+      "area": "Kadubeesanahalli (Prestige Featherlite Tech Hub)",
+      "opened": "2026-09-03",
+      "note": "Hyderabad buffet brand’s Bengaluru debut: 300+ global dishes across seven themed zones. About ₹3,400 for two.",
+      "body": [
+        "Masterpiece, the Hyderabad large-format buffet brand, has opened in Kadubeesanahalli at Prestige Featherlite Tech Hub on Panathur Main Road, pitching India’s largest buffet experience to East Bengaluru.",
+        "The space is designed as a submerged palace across seven zones, from a patisserie and live grill counters to a central bar, private dining and a party arena, with more than 300 global dishes on the buffet."
+      ],
+      "sources": [
+        "https://thisweekindia.news/masterpiece-opens-doors-in-marathahalli-redefining-experiential-dining-with-indias-largest-buffet/",
+        "https://www.sparrowtweets.com/masterpiece-buffet-bangalore-a-new-era-of-experiential-dining-in-bengaluru/"
       ]
     }
   ]
