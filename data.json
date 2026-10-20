@@ -1,234 +1,249 @@
 {
-  "updated": "2026-10-19 08:09",
-  "posts": [
-    {
-      "slug": "kebapci-indiranagar",
-      "name": "Kebapci",
-      "type": "Turkish-Mediterranean restaurant",
-      "area": "Indiranagar",
-      "opened": "2026-10-16",
-      "note": "Kebapci's third Bengaluru outlet, on 100 Feet Road, built around an open fire grill and its signature Cağ Kebap.",
-      "body": [
-        "Turkish-Mediterranean restaurant Kebapci has opened its third Bengaluru outlet on 100 Feet Road in Indiranagar, following its locations in Koramangala and Forum South and its fine-dining concept Oz at UB City. Founders Aasim Shah and Adeeb Shah said Indiranagar felt long overdue.",
-        "The headline dish is the Cağ Kebap, a lamb preparation slow-cooked on a horizontal fire grill and carved tableside, which the brand says it is the only restaurant in India to serve. The new outlet also introduces a Gerçek Adana Kebap, alongside fire-grilled meats, mezze platters and salads.",
-        "The interiors were conceptualised by Turkish architects, with the layout bringing guests closer to the open grill."
-      ],
-      "sources": [
-        "https://www.restaurantindia.in/news/kebapci-expands-to-indiranagar-opens-3rd-outlet-in-bengaluru.n17483"
-      ]
-    },
-    {
-      "slug": "mdp-coffee-house-btm",
-      "name": "MDP Coffee House",
-      "type": "Filter coffee & tea house",
-      "area": "BTM Layout",
-      "opened": "2026-10-16",
-      "note": "A new filter coffee and tea spot on 16th Main, BTM Layout 2nd Stage.",
-      "body": [
-        "MDP Coffee House has opened a new branch in BTM Layout 2nd Stage, serving traditional South Indian filter coffee alongside a range of teas.",
-        "It's at #1032, Ground Floor, 16th Main, 16th Cross, BTM Layout 2nd Stage (560076)."
-      ],
-      "sources": [
-        "https://sakhigeetha.com/mdp-coffee-house-btm-layout-bengaluru/"
-      ]
-    },
-    {
-      "slug": "friyo-indiranagar",
-      "name": "Friyo",
-      "type": "Frozen Greek yogurt & açaí bar",
-      "area": "Indiranagar",
-      "opened": "2026-10-13",
-      "note": "Artisanal frozen Greek yogurt and açaí soft-serve bar with in-house bases and a build-your-own toppings bar. About ₹250–450 per person.",
-      "body": [
-        "Friyo is a new frozen Greek yogurt and açaí soft-serve bar in Indiranagar from founders Debasis Das and Subhasmita Panigrahi, built around small-batch, in-house bases rather than premixes.",
-        "Classic and chocolate frozen Greek yogurt sit alongside a vegan açaí soft-serve and a Mixed Swirl that combines both. Signature cups include Oops All Biscoff, Just Like Snickers, Cherry on Top and Glow Cup, with a toppings bar of house sauces and crunch mixes.",
-        "Desserts are priced about ₹250–450 per person."
-      ],
-      "sources": [
-        "https://concierge-india.com/news/restaurant/bangalore/friyo-brings-frozen-greek-yogurt-and-acai-to-bengaluru"
-      ]
-    },
-    {
-      "slug": "kura-indiranagar",
-      "name": "Kura",
-      "type": "Specialty coffee & all-day café",
-      "area": "Indiranagar",
-      "opened": "2026-10-13",
-      "note": "3,000 sq ft specialty coffee café with an in-house bakery and a French–Japanese all-day kitchen.",
-      "body": [
-        "Kura, named after the Japanese word for a storehouse of treasured possessions, is a new 3,000 sq ft specialty coffee and all-day dining space in Indiranagar from first-time founders Kiran Vijayakumar and Prajwal Venugopal.",
-        "The coffee programme features Indian coffees from the Northeast, Himalayan foothills, Koraput, Araku and the Western Ghats alongside international roasters, with milk-clarified coffees, Frost blended cold brew and three-beverage coffee journeys.",
-        "The kitchen pairs French technique with Japanese precision: house-laminated viennoiserie, pastries and hand-rolled pasta, plus Eggs Benedict, seafood and New Zealand lamb rack on the all-day menu."
-      ],
-      "sources": [
-        "https://concierge-india.com/news/restaurant/bangalore/kura-specialty-coffee-bengaluru"
-      ]
-    },
-    {
-      "slug": "bahati-kasturba-road",
-      "name": "Bahati",
-      "type": "Nightclub & lounge",
-      "area": "Kasturba Road, CBD",
-      "opened": "2026-10-09",
-      "featured": true,
-      "note": "RJ-DJ Rohit Barker's two-floor sky club with house, Latin and Afro sets.",
-      "body": [
-        "Bahati, Swahili for 'good luck', is RJ and DJ Rohit Barker's newest venture, taking over the 17th and 18th floors of a building on Kasturba Road with views over the Cubbon Park canopy, Kingfisher Tower and Chinnaswamy Stadium.",
-        "The name comes from a blue-eyed leopard Barker and his partners spotted in the Masai Mara. The 17th floor is a low-seated lounge with soft lighting; the upper deck has the dance floor and DJ console. The music leans house, Latin and Afro, with Barker and Nikhil Chinapa on the decks for the opening weekend.",
-        "Cocktails follow the wild theme: Chui (leopard) mixes reposado tequila, mezcal, charred pineapple and Kanthari chillies, and Maridadi (elegant) pairs Scotch with coconut, rooibos and pandan. Cost for two is about ₹5,000."
-      ],
-      "sources": [
-        "https://www.thehindu.com/food/features/rohit-barker-is-betting-big-on-house-and-latin-music-with-his-new-club-in-the-heart-of-bengaluru/article71554688.ece",
-        "https://thepressnotes.com/rj-dj-rohit-barker-opens-new-high-rise-club-bahati-on-kasturba-road/"
-      ]
-    },
-    {
-      "slug": "beanlore-koramangala",
-      "name": "Beanlore",
-      "type": "Café",
-      "area": "Koramangala",
-      "opened": "2026-10-09",
-      "note": "Fourth outlet of the in-house-roasting café, set in a two-floor old Bangalore bungalow.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/beanlore-opens-fourth-outlet-in-koramangala"
-      ]
-    },
-    {
-      "slug": "foo-whitefield",
-      "name": "Foo",
-      "type": "Pan-Asian restaurant & bar",
-      "area": "Whitefield (Essensai 067)",
-      "opened": "2026-10-09",
-      "note": "Fourth Bengaluru Foo: 97 covers, 100+ Pan-Asian tapas, a central bar and an outdoor pergola.",
-      "body": [],
-      "sources": [
-        "http://www.fnbnews.com/Top-News/foo-opens-fourth-bengaluru-outlet-in-whitefield-89054"
-      ]
-    },
-    {
-      "slug": "blr-brewing-yelahanka",
-      "name": "BLR Brewing Co.",
-      "type": "Brewpub",
-      "area": "Yelahanka (North Star, Bellary Rd)",
-      "opened": "2026-10-06",
-      "note": "Seventh outlet of the homegrown brewpub. About ₹2,000 for two.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/blr-brewing-co-opens-seventh-outlet-in-yelahanka-bengaluru"
-      ]
-    },
-    {
-      "slug": "druma-jayanagar",
-      "name": "Druma",
-      "type": "Vegetarian restaurant",
-      "area": "Jayanagar 4th Block (Cosmopolitan Club)",
-      "opened": "2026-10-06",
-      "note": "60-cover contemporary vegetarian restaurant mixing Indian, South Indian, Pan-Asian and global plates. About ₹2,200 for two.",
-      "body": [
-        "Druma is a 2,100 sq ft, 60-cover vegetarian restaurant at the Cosmopolitan Club in Jayanagar 4th Block, built around the idea of 'humble dining' with a design drawn from Kannada culture and South Indian architecture.",
-        "Signature plates include a Mushroom Cappuccino with khari, Samosa Mille Feuille Chaat, Pesto Kunafa Tofu and a Chettinad Paneer Quesadilla made with Malabar parotta. It's open 12:30 pm to midnight."
-      ],
-      "sources": [
-        "https://www.hospemag.me/cms/druma-vegetarian-restaurant-jayanagar-bengaluru"
-      ]
-    },
-    {
-      "slug": "alpaca-indiranagar",
-      "name": "Alpaca",
-      "type": "Chocolate drinks café",
-      "area": "Indiranagar, 12th Main",
-      "opened": "2026-10-05",
-      "note": "India's first dedicated chocolate drinks house: eight cacao intensities, hot or iced, with milk and topping options.",
-      "body": [],
-      "sources": [
-        "https://www.thefinancialworld.com/indias-first-dedicated-chocolate-drinks-house-alpaca-to-open-in-bengaluru/",
-        "https://curlytales.com/india/food/new-restaurants-in-bengaluru-this-october-for-fruit-sandos-handmade-pasta-more/"
-      ]
-    },
-    {
-      "slug": "dindigul-thalappakatti-koramangala",
-      "name": "Dindigul Thalappakatti",
-      "type": "South Indian restaurant",
-      "area": "Koramangala 7th Block",
-      "opened": "2026-10-01",
-      "note": "New Koramangala outlet of the Dindigul biryani brand, inaugurated by Kannada actor Shivarajkumar.",
-      "body": [],
-      "sources": [
-        "https://www.businessoffood.in/dindigul-thalappakatti-opens-new-outlet-in-bengaluru/"
-      ]
-    },
-    {
-      "slug": "toast-house-indiranagar",
-      "name": "Toast House",
-      "type": "Café",
-      "area": "Indiranagar, 80 Feet Rd",
-      "opened": "2026-09-30",
-      "note": "Bread-first café built around house-made shokupan sandos and French toast.",
-      "body": [],
-      "sources": [
-        "https://www.restaurantindia.in/news/toast-house-opens-in-bengaluru-s-indiranagar-with-bread-focused-menu.n17354"
-      ]
-    },
-    {
-      "slug": "subko-indiranagar",
-      "name": "Subko × The Humming Tree",
-      "type": "Café & bakehouse",
-      "area": "Indiranagar, 100 Feet Rd",
-      "opened": "2026-09-30",
-      "note": "Full-scale Subko café with a bakehouse and cacao, inside The Humming Tree.",
-      "body": [],
-      "sources": [
-        "https://www.restaurantindia.in/news/subko-opens-new-caf-with-the-humming-tree-in-indiranagar.n17357"
-      ]
-    },
-    {
-      "slug": "filter-coffee-airport-t1",
-      "name": "The Filter Coffee",
-      "type": "South Indian QSR",
-      "area": "Kempegowda Airport T1 (Gate 39)",
-      "opened": "2026-09-29",
-      "note": "First airport outlet: filter coffee and South Indian favourites, 24 hours, with Travel Food Services.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/the-filter-coffee-makes-airport-debut-at-bengaluru-airport-terminal-1"
-      ]
-    },
-    {
-      "slug": "oye-kake-ecoworld",
-      "name": "Oye Kake",
-      "type": "Vegetarian Punjabi restaurant",
-      "area": "Bellandur (The Bay, EcoWorld)",
-      "opened": "2026-09-29",
-      "note": "Second Bengaluru outlet, adding a live lassi bar for the first time.",
-      "body": [],
-      "sources": [
-        "https://www.hotelierindia.com/fb/oye-kake-opens-second-bengaluru-outlet-at-the-bay-ecoworld"
-      ]
-    },
-    {
-      "slug": "goonj-indiranagar",
-      "name": "Goonj",
-      "type": "Indian bar & restaurant",
-      "area": "Indiranagar, 100 Feet Rd",
-      "opened": "2026-09-24",
-      "note": "A 75-seater serving lesser-seen Indian recipes with a contemporary cocktail programme.",
-      "body": [],
-      "sources": [
-        "https://www.pninews.com/goonj-brings-indias-culinary-memories-to-life-in-a-contemporary-bar-and-restaurant-in-bengaluru/"
-      ]
-    },
-    {
-      "slug": "roastery-banashankari",
-      "name": "Roastery Coffee House",
-      "type": "Café",
-      "area": "Banashankari II Stage",
-      "opened": "2026-09-22",
-      "note": "First Bengaluru House of the Hyderabad-born brand (~80 seats), sourcing nearly all its coffee from Karnataka.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/roastery-coffee-houses-coffee-comes-home-to-bengaluru"
-      ]
-    }
-  ]
+ "updated": "2026-10-20 08:10",
+ "posts": [
+  {
+   "slug": "bibigo-bapsang-rajajinagar",
+   "name": "bibigo bapsang",
+   "type": "Korean quick-service restaurant",
+   "area": "Rajajinagar (Orion Mall)",
+   "opened": "2026-10-19",
+   "note": "India's first bibigo bapsang, a Korean quick-service format from GTGO and CJ Foods, built around a build-your-own rice bowl.",
+   "body": [
+    "GTGO, the Korean food company behind GOPIZZA, Gochujang and Dalkomi, has opened the first bibigo bapsang in India at Orion Mall, Rajajinagar, through a partnership with CJ Foods, the company behind the bibigo brand. More Bengaluru outlets are planned by the end of the year.",
+    "The signature is BYOB (Build Your Own Bapsang), a customisable bowl inspired by the Korean table with rice, protein and vegetables. The menu also has bibimbap, Korean chicken, Korean fries, corndogs and desserts, at an affordable price point."
+   ],
+   "sources": [
+    "https://hospitality.economictimes.indiatimes.com/news/restaurants/gtgo-opens-the-first-bibigo-bapsang-outlet-in-bengaluru/135043132"
+   ]
+  },
+  {
+   "slug": "kebapci-indiranagar",
+   "name": "Kebapci",
+   "type": "Turkish-Mediterranean restaurant",
+   "area": "Indiranagar",
+   "opened": "2026-10-16",
+   "note": "Kebapci's third Bengaluru outlet, on 100 Feet Road, built around an open fire grill and its signature Cağ Kebap.",
+   "body": [
+    "Turkish-Mediterranean restaurant Kebapci has opened its third Bengaluru outlet on 100 Feet Road in Indiranagar, following its locations in Koramangala and Forum South and its fine-dining concept Oz at UB City. Founders Aasim Shah and Adeeb Shah said Indiranagar felt long overdue.",
+    "The headline dish is the Cağ Kebap, a lamb preparation slow-cooked on a horizontal fire grill and carved tableside, which the brand says it is the only restaurant in India to serve. The new outlet also introduces a Gerçek Adana Kebap, alongside fire-grilled meats, mezze platters and salads.",
+    "The interiors were conceptualised by Turkish architects, with the layout bringing guests closer to the open grill."
+   ],
+   "sources": [
+    "https://www.restaurantindia.in/news/kebapci-expands-to-indiranagar-opens-3rd-outlet-in-bengaluru.n17483"
+   ]
+  },
+  {
+   "slug": "mdp-coffee-house-btm",
+   "name": "MDP Coffee House",
+   "type": "Filter coffee & tea house",
+   "area": "BTM Layout",
+   "opened": "2026-10-16",
+   "note": "A new filter coffee and tea spot on 16th Main, BTM Layout 2nd Stage.",
+   "body": [
+    "MDP Coffee House has opened a new branch in BTM Layout 2nd Stage, serving traditional South Indian filter coffee alongside a range of teas.",
+    "It's at #1032, Ground Floor, 16th Main, 16th Cross, BTM Layout 2nd Stage (560076)."
+   ],
+   "sources": [
+    "https://sakhigeetha.com/mdp-coffee-house-btm-layout-bengaluru/"
+   ]
+  },
+  {
+   "slug": "friyo-indiranagar",
+   "name": "Friyo",
+   "type": "Frozen Greek yogurt & açaí bar",
+   "area": "Indiranagar",
+   "opened": "2026-10-13",
+   "note": "Artisanal frozen Greek yogurt and açaí soft-serve bar with in-house bases and a build-your-own toppings bar. About ₹250–450 per person.",
+   "body": [
+    "Friyo is a new frozen Greek yogurt and açaí soft-serve bar in Indiranagar from founders Debasis Das and Subhasmita Panigrahi, built around small-batch, in-house bases rather than premixes.",
+    "Classic and chocolate frozen Greek yogurt sit alongside a vegan açaí soft-serve and a Mixed Swirl that combines both. Signature cups include Oops All Biscoff, Just Like Snickers, Cherry on Top and Glow Cup, with a toppings bar of house sauces and crunch mixes.",
+    "Desserts are priced about ₹250–450 per person."
+   ],
+   "sources": [
+    "https://concierge-india.com/news/restaurant/bangalore/friyo-brings-frozen-greek-yogurt-and-acai-to-bengaluru"
+   ]
+  },
+  {
+   "slug": "kura-indiranagar",
+   "name": "Kura",
+   "type": "Specialty coffee & all-day café",
+   "area": "Indiranagar",
+   "opened": "2026-10-13",
+   "note": "3,000 sq ft specialty coffee café with an in-house bakery and a French–Japanese all-day kitchen.",
+   "body": [
+    "Kura, named after the Japanese word for a storehouse of treasured possessions, is a new 3,000 sq ft specialty coffee and all-day dining space in Indiranagar from first-time founders Kiran Vijayakumar and Prajwal Venugopal.",
+    "The coffee programme features Indian coffees from the Northeast, Himalayan foothills, Koraput, Araku and the Western Ghats alongside international roasters, with milk-clarified coffees, Frost blended cold brew and three-beverage coffee journeys.",
+    "The kitchen pairs French technique with Japanese precision: house-laminated viennoiserie, pastries and hand-rolled pasta, plus Eggs Benedict, seafood and New Zealand lamb rack on the all-day menu."
+   ],
+   "sources": [
+    "https://concierge-india.com/news/restaurant/bangalore/kura-specialty-coffee-bengaluru"
+   ]
+  },
+  {
+   "slug": "bahati-kasturba-road",
+   "name": "Bahati",
+   "type": "Nightclub & lounge",
+   "area": "Kasturba Road, CBD",
+   "opened": "2026-10-09",
+   "featured": true,
+   "note": "RJ-DJ Rohit Barker's two-floor sky club with house, Latin and Afro sets.",
+   "body": [
+    "Bahati, Swahili for 'good luck', is RJ and DJ Rohit Barker's newest venture, taking over the 17th and 18th floors of a building on Kasturba Road with views over the Cubbon Park canopy, Kingfisher Tower and Chinnaswamy Stadium.",
+    "The name comes from a blue-eyed leopard Barker and his partners spotted in the Masai Mara. The 17th floor is a low-seated lounge with soft lighting; the upper deck has the dance floor and DJ console. The music leans house, Latin and Afro, with Barker and Nikhil Chinapa on the decks for the opening weekend.",
+    "Cocktails follow the wild theme: Chui (leopard) mixes reposado tequila, mezcal, charred pineapple and Kanthari chillies, and Maridadi (elegant) pairs Scotch with coconut, rooibos and pandan. Cost for two is about ₹5,000."
+   ],
+   "sources": [
+    "https://www.thehindu.com/food/features/rohit-barker-is-betting-big-on-house-and-latin-music-with-his-new-club-in-the-heart-of-bengaluru/article71554688.ece",
+    "https://thepressnotes.com/rj-dj-rohit-barker-opens-new-high-rise-club-bahati-on-kasturba-road/"
+   ]
+  },
+  {
+   "slug": "beanlore-koramangala",
+   "name": "Beanlore",
+   "type": "Café",
+   "area": "Koramangala",
+   "opened": "2026-10-09",
+   "note": "Fourth outlet of the in-house-roasting café, set in a two-floor old Bangalore bungalow.",
+   "body": [],
+   "sources": [
+    "https://hospitalitynews.in/news/beanlore-opens-fourth-outlet-in-koramangala"
+   ]
+  },
+  {
+   "slug": "foo-whitefield",
+   "name": "Foo",
+   "type": "Pan-Asian restaurant & bar",
+   "area": "Whitefield (Essensai 067)",
+   "opened": "2026-10-09",
+   "note": "Fourth Bengaluru Foo: 97 covers, 100+ Pan-Asian tapas, a central bar and an outdoor pergola.",
+   "body": [],
+   "sources": [
+    "http://www.fnbnews.com/Top-News/foo-opens-fourth-bengaluru-outlet-in-whitefield-89054"
+   ]
+  },
+  {
+   "slug": "blr-brewing-yelahanka",
+   "name": "BLR Brewing Co.",
+   "type": "Brewpub",
+   "area": "Yelahanka (North Star, Bellary Rd)",
+   "opened": "2026-10-06",
+   "note": "Seventh outlet of the homegrown brewpub. About ₹2,000 for two.",
+   "body": [],
+   "sources": [
+    "https://hospitalitynews.in/news/blr-brewing-co-opens-seventh-outlet-in-yelahanka-bengaluru"
+   ]
+  },
+  {
+   "slug": "druma-jayanagar",
+   "name": "Druma",
+   "type": "Vegetarian restaurant",
+   "area": "Jayanagar 4th Block (Cosmopolitan Club)",
+   "opened": "2026-10-06",
+   "note": "60-cover contemporary vegetarian restaurant mixing Indian, South Indian, Pan-Asian and global plates. About ₹2,200 for two.",
+   "body": [
+    "Druma is a 2,100 sq ft, 60-cover vegetarian restaurant at the Cosmopolitan Club in Jayanagar 4th Block, built around the idea of 'humble dining' with a design drawn from Kannada culture and South Indian architecture.",
+    "Signature plates include a Mushroom Cappuccino with khari, Samosa Mille Feuille Chaat, Pesto Kunafa Tofu and a Chettinad Paneer Quesadilla made with Malabar parotta. It's open 12:30 pm to midnight."
+   ],
+   "sources": [
+    "https://www.hospemag.me/cms/druma-vegetarian-restaurant-jayanagar-bengaluru"
+   ]
+  },
+  {
+   "slug": "alpaca-indiranagar",
+   "name": "Alpaca",
+   "type": "Chocolate drinks café",
+   "area": "Indiranagar, 12th Main",
+   "opened": "2026-10-05",
+   "note": "India's first dedicated chocolate drinks house: eight cacao intensities, hot or iced, with milk and topping options.",
+   "body": [],
+   "sources": [
+    "https://www.thefinancialworld.com/indias-first-dedicated-chocolate-drinks-house-alpaca-to-open-in-bengaluru/",
+    "https://curlytales.com/india/food/new-restaurants-in-bengaluru-this-october-for-fruit-sandos-handmade-pasta-more/"
+   ]
+  },
+  {
+   "slug": "dindigul-thalappakatti-koramangala",
+   "name": "Dindigul Thalappakatti",
+   "type": "South Indian restaurant",
+   "area": "Koramangala 7th Block",
+   "opened": "2026-10-01",
+   "note": "New Koramangala outlet of the Dindigul biryani brand, inaugurated by Kannada actor Shivarajkumar.",
+   "body": [],
+   "sources": [
+    "https://www.businessoffood.in/dindigul-thalappakatti-opens-new-outlet-in-bengaluru/"
+   ]
+  },
+  {
+   "slug": "toast-house-indiranagar",
+   "name": "Toast House",
+   "type": "Café",
+   "area": "Indiranagar, 80 Feet Rd",
+   "opened": "2026-09-30",
+   "note": "Bread-first café built around house-made shokupan sandos and French toast.",
+   "body": [],
+   "sources": [
+    "https://www.restaurantindia.in/news/toast-house-opens-in-bengaluru-s-indiranagar-with-bread-focused-menu.n17354"
+   ]
+  },
+  {
+   "slug": "subko-indiranagar",
+   "name": "Subko × The Humming Tree",
+   "type": "Café & bakehouse",
+   "area": "Indiranagar, 100 Feet Rd",
+   "opened": "2026-09-30",
+   "note": "Full-scale Subko café with a bakehouse and cacao, inside The Humming Tree.",
+   "body": [],
+   "sources": [
+    "https://www.restaurantindia.in/news/subko-opens-new-caf-with-the-humming-tree-in-indiranagar.n17357"
+   ]
+  },
+  {
+   "slug": "filter-coffee-airport-t1",
+   "name": "The Filter Coffee",
+   "type": "South Indian QSR",
+   "area": "Kempegowda Airport T1 (Gate 39)",
+   "opened": "2026-09-29",
+   "note": "First airport outlet: filter coffee and South Indian favourites, 24 hours, with Travel Food Services.",
+   "body": [],
+   "sources": [
+    "https://hospitalitynews.in/news/the-filter-coffee-makes-airport-debut-at-bengaluru-airport-terminal-1"
+   ]
+  },
+  {
+   "slug": "oye-kake-ecoworld",
+   "name": "Oye Kake",
+   "type": "Vegetarian Punjabi restaurant",
+   "area": "Bellandur (The Bay, EcoWorld)",
+   "opened": "2026-09-29",
+   "note": "Second Bengaluru outlet, adding a live lassi bar for the first time.",
+   "body": [],
+   "sources": [
+    "https://www.hotelierindia.com/fb/oye-kake-opens-second-bengaluru-outlet-at-the-bay-ecoworld"
+   ]
+  },
+  {
+   "slug": "goonj-indiranagar",
+   "name": "Goonj",
+   "type": "Indian bar & restaurant",
+   "area": "Indiranagar, 100 Feet Rd",
+   "opened": "2026-09-24",
+   "note": "A 75-seater serving lesser-seen Indian recipes with a contemporary cocktail programme.",
+   "body": [],
+   "sources": [
+    "https://www.pninews.com/goonj-brings-indias-culinary-memories-to-life-in-a-contemporary-bar-and-restaurant-in-bengaluru/"
+   ]
+  },
+  {
+   "slug": "roastery-banashankari",
+   "name": "Roastery Coffee House",
+   "type": "Café",
+   "area": "Banashankari II Stage",
+   "opened": "2026-09-22",
+   "note": "First Bengaluru House of the Hyderabad-born brand (~80 seats), sourcing nearly all its coffee from Karnataka.",
+   "body": [],
+   "sources": [
+    "https://hospitalitynews.in/news/roastery-coffee-houses-coffee-comes-home-to-bengaluru"
+   ]
+  }
+ ]
 }
