@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-22 02:35",
+  "updated": "2026-10-23 02:34",
   "posts": [
+    {
+      "slug": "chins-lavelle-road",
+      "name": "Chins Bar, Coffee & Kitchen",
+      "type": "All-day café, restaurant and bar",
+      "area": "Lavelle Road",
+      "opened": "2026-10-22",
+      "note": "The team behind Chinlung is opening a 400-seat, three-floor all-day spot that runs from coffee to cocktails and music.",
+      "body": [
+        "The ground floor is a coffee bar built around a Victoria Arduino Eagle One NEO, the first floor is the dining room, and the top floor is the evening bar.",
+        "The multi-cuisine menu covers sushi, dim sum, bao, Indian grills, coastal dishes, pizzas and pastas, with picks like Ponzu Butter Dimsum, Mushroom Katsu Bao, Chicken Sukka and Coastal Prawn Curry. It opens 11am to 1am at first, with breakfast and 8am openings after the first month."
+      ],
+      "sources": [
+        "https://www.restaurantindia.in/news/chins-bar-coffee-kitchen-opens-on-bengaluru-s-lavelle-road.n17506",
+        "https://thedailybrunch.com/2026/10/22/chins-bar-coffee-kitchen-brings-all-day-dining-to-lavelle-road-bengaluru/"
+      ]
+    },
+    {
+      "slug": "bountyful-indiranagar",
+      "name": "Bountyful",
+      "type": "Vegetarian restaurant",
+      "area": "Indiranagar",
+      "opened": "2026-10-21",
+      "note": "A 40-seat all-vegetarian restaurant drawing on 18 to 20 regional Indian cuisines and home-style cooking.",
+      "body": [
+        "Expect dishes like Hari Moong Dal, Bihari Sattu, Rajasthani Malai Gatta, Bengali Bhapa Paneer and Kashmiri Khatte Nadru, plus a zero-proof drinks list with kokum, jeera and shilajit coolers.",
+        "Desserts include Kesar Bhapa Doi, Rose Milk Cake and a Gud Til Chocolate Mousse. It's open 12 to 4pm and 7 to 11pm, closed Mondays."
+      ],
+      "sources": [
+        "https://thedailybrunch.com/2026/10/21/bountyful-opens-in-indiranagar-bengaluru-with-regional-vegetarian-food-from-across-india/"
+      ]
+    },
+    {
+      "slug": "tossin-pizza-koramangala",
+      "name": "Tossin Pizza",
+      "type": "Gourmet pizza QSR",
+      "area": "Koramangala",
+      "opened": "2026-10-21",
+      "note": "The Gurugram-born gourmet pizza brand has opened its first Bengaluru and Karnataka outlet.",
+      "body": [
+        "Founded in 2013 by Chef Rohit Narang and Honey Mehta, Tossin runs 27 outlets across Delhi NCR, Mumbai and Hyderabad. The Koramangala menu brings its veg and non-veg pizzas, pastas, baked dishes and desserts."
+      ],
+      "sources": [
+        "https://www.indianretailer.com/news/tossin-pizza-enters-karnataka-first-bengaluru-outlet-koramangala"
+      ]
+    },
     {
       "slug": "smoor-hsr-layout",
       "name": "SMOOR",
@@ -246,18 +291,6 @@
       "body": [],
       "sources": [
         "https://www.pninews.com/goonj-brings-indias-culinary-memories-to-life-in-a-contemporary-bar-and-restaurant-in-bengaluru/"
-      ]
-    },
-    {
-      "slug": "roastery-banashankari",
-      "name": "Roastery Coffee House",
-      "type": "Café",
-      "area": "Banashankari II Stage",
-      "opened": "2026-09-22",
-      "note": "First Bengaluru House of the Hyderabad-born brand (~80 seats), sourcing nearly all its coffee from Karnataka.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/roastery-coffee-houses-coffee-comes-home-to-bengaluru"
       ]
     }
   ]
