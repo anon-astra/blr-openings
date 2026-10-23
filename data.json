@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-23 02:34",
+  "updated": "2026-10-24 02:40",
   "posts": [
+    {
+      "slug": "la-verde-ulsoor",
+      "name": "La Verde",
+      "type": "Wellness café",
+      "area": "Ulsoor",
+      "opened": "2026-10-22",
+      "note": "A new wellness-focused café built around functional drinks, superfoods and everyday café food.",
+      "body": [
+        "The drinks menu centres on hydration, with green juices, electrolyte refreshers and blends made with spirulina, chlorella and supergreens. Signatures include coconut matcha and coconut espresso served in natural coconut shells.",
+        "Food covers signature sandwiches, croissant sandwiches, gluten-free almond-flour cakes and seed-and-nut cookies, in a space meant for meeting friends, working remotely or a relaxed meal."
+      ],
+      "sources": [
+        "https://www.travelandtourworld.com/news/article/nelc3ejywsii/"
+      ]
+    },
     {
       "slug": "chins-lavelle-road",
       "name": "Chins Bar, Coffee & Kitchen",
