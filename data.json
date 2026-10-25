@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 02:41",
+  "updated": "2026-10-26 02:39",
   "posts": [
     {
       "slug": "la-verde-ulsoor",
@@ -89,6 +89,21 @@
       ],
       "sources": [
         "https://hospitality.economictimes.indiatimes.com/news/restaurants/gtgo-opens-the-first-bibigo-bapsang-outlet-in-bengaluru/135043132"
+      ]
+    },
+    {
+      "slug": "roastery-banashankari",
+      "name": "Roastery Coffee House",
+      "type": "Café",
+      "area": "Banashankari II Stage",
+      "opened": "2026-10-18",
+      "note": "The coffee chain's newest Bengaluru outlet, called Bengaluru House, with seating for around 80 across about 4,000 sq ft.",
+      "body": [
+        "The design takes subtle cues from Indian arches and traditional design, reworked in a contemporary way. Nearly all the coffee comes from Karnataka, mostly the Chikmagalur region.",
+        "The menu runs from cheesy garlic bread, zucchini fries and nachos to a new Hold-in-Hand sandwich range, pastas and flatbread pizzas, with drinks like honey cinnamon, litchi and guava iced coffees."
+      ],
+      "sources": [
+        "https://www.thehindu.com/food/features/bengalurus-october-food-guide-a-bar-find-cocktail-residency-amar-khamars-bengali-feast-and-more/article71573914.ece"
       ]
     },
     {
@@ -234,6 +249,36 @@
       "sources": [
         "https://www.thefinancialworld.com/indias-first-dedicated-chocolate-drinks-house-alpaca-to-open-in-bengaluru/",
         "https://curlytales.com/india/food/new-restaurants-in-bengaluru-this-october-for-fruit-sandos-handmade-pasta-more/"
+      ]
+    },
+    {
+      "slug": "goonj-indiranagar",
+      "name": "Goonj",
+      "type": "Indian bar & restaurant",
+      "area": "Indiranagar",
+      "opened": "2026-10-05",
+      "note": "A 75-seat Indian bar and restaurant on 100 Feet Road built around lesser-seen Indian recipes and a contemporary cocktail programme.",
+      "body": [
+        "Spread across 2,500 sq ft on the fourth floor, Goonj looks at Indian food through the lens of memory, drawing on family kitchens, festive meals and old cooking techniques.",
+        "Dishes include Dal Bukhara and Bhutte Ka Kees, alongside cocktails inspired by Indian flavours. Price for two is about ₹2,700."
+      ],
+      "sources": [
+        "https://curlytales.com/india/food/new-restaurants-in-bengaluru-this-october-for-fruit-sandos-handmade-pasta-more/",
+        "https://thedailybrunch.com/2026/10/18/goonj-indian-restaurant-bar-indiranagar-bengaluru/"
+      ]
+    },
+    {
+      "slug": "baci-baci-osteria-koramangala",
+      "name": "Baci Baci Osteria",
+      "type": "Italian restaurant",
+      "area": "Koramangala",
+      "opened": "2026-10-05",
+      "note": "A new Italian spot serving wood-fired pizzas, handmade pasta and Italian coffees in cosy, old-world interiors.",
+      "sources": [
+        "https://curlytales.com/india/food/new-restaurants-in-bengaluru-this-october-for-fruit-sandos-handmade-pasta-more/"
+      ],
+      "body": [
+        "The space is meant for relaxed meals with friends, open from noon to midnight, with a price for two of about ₹1,600."
       ]
     },
     {
