@@ -1,6 +1,35 @@
 {
-  "updated": "2026-10-27 02:33",
+  "updated": "2026-10-28 02:34",
   "posts": [
+    {
+      "slug": "koko-samba-brookefield",
+      "name": "Koko Samba",
+      "type": "Restaurant & bar",
+      "area": "Brookefield (Brookefield Main Road)",
+      "opened": "2026-10-27",
+      "note": "A 42,000 sq ft fire-lit restaurant and bar with space for 750 covers, pitched somewhere between a loud brewery and a quiet cocktail bar.",
+      "body": [
+        "Food is built for sharing at the centre of the table, and some evenings bring drums, dance and performance while others stay quieter.",
+        "Interiors by Abhigyan Neogi draw on tribal and tropical settings, with rock formations, a water body and water-wheel, bamboo, cane and thatch."
+      ],
+      "sources": [
+        "https://hospitality.economictimes.indiatimes.com/news/restaurants/koko-samba-brings-a-world-of-its-own-to-brookefield-bengaluru/135225227"
+      ]
+    },
+    {
+      "slug": "4-degrees-mark-square",
+      "name": "4°",
+      "type": "Greek yogurt dessert kiosk",
+      "area": "St Mark's Road (Mark Square)",
+      "opened": "2026-10-25",
+      "note": "The Chennai-born Greek yogurt brand's first Bengaluru kiosk, serving slow-churned, preservative-free, all-vegetarian yogurt as dessert.",
+      "body": [
+        "The yogurt is served chilled rather than frozen for a thick, velvety texture, with 6 to 8 grams of protein per scoop. Open daily from noon to 10pm."
+      ],
+      "sources": [
+        "https://businessnewsthisweek.com/business/greek-yogurt-done-the-greek-way-4-opens-its-first-bengaluru-outlet-at-mark-square/"
+      ]
+    },
     {
       "slug": "brahma-brews-ecospace-bellandur",
       "name": "Brahma Brews",
