@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-28 02:34",
+  "updated": "2026-10-30 02:37",
   "posts": [
+    {
+      "slug": "coffee-buddy-indiranagar",
+      "name": "Coffee Buddy",
+      "type": "Cafe",
+      "area": "Indiranagar",
+      "opened": "2026-10-29",
+      "note": "The Filipino coffee chain opens its Bengaluru outlet in Indiranagar, serving premium coffee made with 100% Arabica and Robusta beans.",
+      "body": [
+        "Coffee Buddy started in 2019 as a small online coffee bean store in Manila and came to India through a master franchise with Franchise India, opening first in Mumbai in August 2026."
+      ],
+      "sources": [
+        "https://www.indianretailer.com/franchisetv/archives/news/franchisetv-exclusive-coffee-buddy-opens-new-outlet-bangalore"
+      ]
+    },
+    {
+      "slug": "gato-house-hsr-layout",
+      "name": "GATO House",
+      "type": "Cafe",
+      "area": "HSR Layout (22nd Cross, 20th Main Rd, Sector 2)",
+      "opened": "2026-10-28",
+      "note": "A new cafe for brews, bakes and Pan-Asian food, with drinks like Rose Matcha, Kyoto Blanc and cold brews served on tap.",
+      "body": [
+        "Open 11 am to 11:30 pm, about ₹1,500 for two."
+      ],
+      "sources": [
+        "https://curlytales.com/india/food/bengaluru-foodies-save-this-list-new-restaurants-cafes-to-visit-this-november/"
+      ]
+    },
     {
       "slug": "koko-samba-brookefield",
       "name": "Koko Samba",
@@ -360,30 +388,6 @@
       "body": [],
       "sources": [
         "https://www.restaurantindia.in/news/subko-opens-new-caf-with-the-humming-tree-in-indiranagar.n17357"
-      ]
-    },
-    {
-      "slug": "filter-coffee-airport-t1",
-      "name": "The Filter Coffee",
-      "type": "South Indian QSR",
-      "area": "Kempegowda Airport T1 (Gate 39)",
-      "opened": "2026-09-29",
-      "note": "First airport outlet: filter coffee and South Indian favourites, 24 hours, with Travel Food Services.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/the-filter-coffee-makes-airport-debut-at-bengaluru-airport-terminal-1"
-      ]
-    },
-    {
-      "slug": "oye-kake-ecoworld",
-      "name": "Oye Kake",
-      "type": "Vegetarian Punjabi restaurant",
-      "area": "Bellandur (The Bay, EcoWorld)",
-      "opened": "2026-09-29",
-      "note": "Second Bengaluru outlet, adding a live lassi bar for the first time.",
-      "body": [],
-      "sources": [
-        "https://www.hotelierindia.com/fb/oye-kake-opens-second-bengaluru-outlet-at-the-bay-ecoworld"
       ]
     }
   ]
