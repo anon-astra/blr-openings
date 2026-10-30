@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 02:37",
+  "updated": "2026-10-31 02:35",
   "posts": [
     {
       "slug": "coffee-buddy-indiranagar",
@@ -364,30 +364,6 @@
       "body": [],
       "sources": [
         "https://www.businessoffood.in/dindigul-thalappakatti-opens-new-outlet-in-bengaluru/"
-      ]
-    },
-    {
-      "slug": "toast-house-indiranagar",
-      "name": "Toast House",
-      "type": "Café",
-      "area": "Indiranagar, 80 Feet Rd",
-      "opened": "2026-09-30",
-      "note": "Bread-first café built around house-made shokupan sandos and French toast.",
-      "body": [],
-      "sources": [
-        "https://www.restaurantindia.in/news/toast-house-opens-in-bengaluru-s-indiranagar-with-bread-focused-menu.n17354"
-      ]
-    },
-    {
-      "slug": "subko-indiranagar",
-      "name": "Subko × The Humming Tree",
-      "type": "Café & bakehouse",
-      "area": "Indiranagar, 100 Feet Rd",
-      "opened": "2026-09-30",
-      "note": "Full-scale Subko café with a bakehouse and cacao, inside The Humming Tree.",
-      "body": [],
-      "sources": [
-        "https://www.restaurantindia.in/news/subko-opens-new-caf-with-the-humming-tree-in-indiranagar.n17357"
       ]
     }
   ]
