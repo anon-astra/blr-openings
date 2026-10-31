@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 02:35",
+  "updated": "2026-11-01 02:38",
   "posts": [
     {
       "slug": "coffee-buddy-indiranagar",
@@ -42,6 +42,20 @@
       ],
       "sources": [
         "https://hospitality.economictimes.indiatimes.com/news/restaurants/koko-samba-brings-a-world-of-its-own-to-brookefield-bengaluru/135225227"
+      ]
+    },
+    {
+      "slug": "chifa-marathahalli",
+      "name": "Chifa",
+      "type": "Restaurant",
+      "area": "Marathahalli",
+      "opened": "2026-10-27",
+      "note": "A Chinese-Peruvian restaurant built around migration cuisine, blending Chinese cooking techniques with Peruvian flavours.",
+      "body": [
+        "It has three dining spaces: The Valley, an intimate room; The Crossing, built for social gatherings; and The Canopy, an outdoor area overlooking the city."
+      ],
+      "sources": [
+        "https://www.restaurantindia.in/news/chifa-enters-bengaluru-s-marathahalli-with-chinese-peruvian-cuisine.n17527"
       ]
     },
     {
@@ -211,6 +225,20 @@
       ]
     },
     {
+      "slug": "toast-house-indiranagar",
+      "name": "Toast House",
+      "type": "Cafe",
+      "area": "Indiranagar",
+      "opened": "2026-10-15",
+      "note": "A bread-focused cafe built around house-made Japanese shokupan, with savoury sandos, fruit sandwiches and dessert French toast.",
+      "body": [
+        "The menu draws on the bakery and sandwich cultures of Japan, South Korea, Thailand and Vietnam, with picks like Tamago Sando, Chicken Katsu Sando and Dark Chocolate French Toast."
+      ],
+      "sources": [
+        "https://concierge-india.com/news/restaurant/bangalore/toast-house-brings-asianinspired-sandos-to-bengaluru"
+      ]
+    },
+    {
       "slug": "friyo-indiranagar",
       "name": "Friyo",
       "type": "Frozen Greek yogurt & açaí bar",
@@ -352,18 +380,6 @@
       ],
       "body": [
         "The space is meant for relaxed meals with friends, open from noon to midnight, with a price for two of about ₹1,600."
-      ]
-    },
-    {
-      "slug": "dindigul-thalappakatti-koramangala",
-      "name": "Dindigul Thalappakatti",
-      "type": "South Indian restaurant",
-      "area": "Koramangala 7th Block",
-      "opened": "2026-10-01",
-      "note": "New Koramangala outlet of the Dindigul biryani brand, inaugurated by Kannada actor Shivarajkumar.",
-      "body": [],
-      "sources": [
-        "https://www.businessoffood.in/dindigul-thalappakatti-opens-new-outlet-in-bengaluru/"
       ]
     }
   ]
