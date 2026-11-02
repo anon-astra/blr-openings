@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-02 02:39",
+  "updated": "2026-11-03 02:32",
   "posts": [
+    {
+      "slug": "buco-indiranagar",
+      "name": "BuCo.",
+      "type": "Bakery cafe",
+      "area": "Indiranagar",
+      "opened": "2026-11-02",
+      "note": "Chef Shriya Shetty's Mangalore-based artisanal bakehouse makes its Bengaluru debut in a bungalow in Indiranagar, with bakes, burgers, desserts and a filter coffee-led drinks menu.",
+      "body": [
+        "The cafe sits under two large rain trees at 6th Cross Road, HAL 2nd Stage, and serves a breakfast menu alongside its signature bakes."
+      ],
+      "sources": [
+        "https://www.thehindu.com/food/features/buco-opens-in-bengaluru-with-a-breakfast-menu-artisanal-bakes-and-a-filter-coffee-first-approach/article71655263.ece",
+        "https://lokazen.in/market-moves/buco-makes-bengaluru-debut-with-artisanal-bakehouse-1604f663"
+      ]
+    },
+    {
+      "slug": "cooke-town-renaissance-race-course",
+      "name": "Cooke Town",
+      "type": "All-day dining restaurant",
+      "area": "Race Course Road",
+      "opened": "2026-11-02",
+      "note": "Renaissance Bengaluru Race Course Hotel's new all-day dining restaurant puts Anglo-Indian cuisine at the heart of its menu.",
+      "body": [
+        "Named after the old Bengaluru neighbourhood, the menu was developed by Executive Chef Ho Chi Ming with Anglo-Indian culinary historian Bridget White-Kumar, alongside select regional and international dishes."
+      ],
+      "sources": [
+        "https://hospibuz.com/hotel/Hotel-listicles/renaissance-bengaluru-race-course-hotel-introduces-cooke-town-a-new-all-day-dining-address-with-an-anglo-indian-soul-12775523",
+        "https://lokazen.in/market-moves/renaissance-bengaluru-race-course-hotel-introduces-cooke-town-all-day-7b831130"
+      ]
+    },
+    {
+      "slug": "barcode-restopub-new-bel-road",
+      "name": "Barcode Restopub",
+      "type": "Pub",
+      "area": "New BEL Road",
+      "opened": "2026-11-01",
+      "note": "A new restopub on New BEL Road, inaugurated on Sunday, November 1 with Kannada actor Gilli Nata cutting the ribbon.",
+      "sources": [
+        "https://inblr.today/news/bengaluru-gilli-nata-grand-entry-dance-new-pub-opening-bel-road",
+        "https://kannada.asianetnews.com/entertainment/gilli-nata-barcode-restopub-grand-opening-bengaluru-suh/articleshow-xo1uiu4"
+      ],
+      "body": [
+        "The pub was started by Sudhakar Gowda, a close friend of Gilli Nata, and the launch also drew actors Arun Gowda and Payal."
+      ]
+    },
     {
       "slug": "coffee-buddy-indiranagar",
       "name": "Coffee Buddy",
