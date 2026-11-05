@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-05 02:37",
+ "updated": "2026-11-06 02:40",
  "posts": [
+  {
+   "slug": "boston-pub-rr-nagar",
+   "name": "Boston Pub",
+   "type": "Pub",
+   "area": "RR Nagar (80 Feet Road)",
+   "opened": "2026-11-05",
+   "note": "A five-floor, ~12,000 sq ft pub and dining venue for about 400 guests, with rooftop seating and a basement dance floor.",
+   "body": [
+    "Each floor is meant for a different mood: indoor dining and a pub for relaxed evenings, a rooftop for sitting out, and a dance floor downstairs. Interiors by Vinay Agnelo F. D'Almeida mix vintage details with contemporary touches, and DJ nights, live music and themed events are planned.",
+    "Food is built for sharing across Asian and Korean-inspired dishes, Indian appetisers, pizzas and Continental plates, with vegetarian options throughout. Signature cocktails sit alongside non-alcoholic drinks like Ruby Fizz and Baklava Brew. Founded by Subbaiah, Preetham, Hem and Ashwin."
+   ],
+   "sources": [
+    "https://thedailybrunch.com/2026/11/05/boston-pub-rr-nagar-bengaluru/",
+    "https://www.luxuryabode.com/blog/boston-pub-opens-in-bengalurus-rr-nagar-with-five-floors-of-dining-cocktails-and-nightlife/artid4619"
+   ]
+  },
   {
    "slug": "coffee-island-beyond-koramangala",
    "name": "Coffee Island Beyond",
@@ -371,33 +387,6 @@
    "body": [],
    "sources": [
     "http://www.fnbnews.com/Top-News/foo-opens-fourth-bengaluru-outlet-in-whitefield-89054"
-   ]
-  },
-  {
-   "slug": "blr-brewing-yelahanka",
-   "name": "BLR Brewing Co.",
-   "type": "Brewpub",
-   "area": "Yelahanka (North Star, Bellary Rd)",
-   "opened": "2026-10-06",
-   "note": "Seventh outlet of the homegrown brewpub. About ₹2,000 for two.",
-   "body": [],
-   "sources": [
-    "https://hospitalitynews.in/news/blr-brewing-co-opens-seventh-outlet-in-yelahanka-bengaluru"
-   ]
-  },
-  {
-   "slug": "druma-jayanagar",
-   "name": "Druma",
-   "type": "Vegetarian restaurant",
-   "area": "Jayanagar 4th Block (Cosmopolitan Club)",
-   "opened": "2026-10-06",
-   "note": "60-cover contemporary vegetarian restaurant mixing Indian, South Indian, Pan-Asian and global plates. About ₹2,200 for two.",
-   "body": [
-    "Druma is a 2,100 sq ft, 60-cover vegetarian restaurant at the Cosmopolitan Club in Jayanagar 4th Block, built around the idea of 'humble dining' with a design drawn from Kannada culture and South Indian architecture.",
-    "Signature plates include a Mushroom Cappuccino with khari, Samosa Mille Feuille Chaat, Pesto Kunafa Tofu and a Chettinad Paneer Quesadilla made with Malabar parotta. It's open 12:30 pm to midnight."
-   ],
-   "sources": [
-    "https://www.hospemag.me/cms/druma-vegetarian-restaurant-jayanagar-bengaluru"
    ]
   }
  ]
