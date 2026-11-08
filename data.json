@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08 02:31",
+  "updated": "2026-11-09 02:36",
   "posts": [
     {
       "slug": "boston-pub-rr-nagar",
@@ -345,48 +345,6 @@
       ],
       "sources": [
         "https://concierge-india.com/news/restaurant/bangalore/kura-specialty-coffee-bengaluru"
-      ]
-    },
-    {
-      "slug": "bahati-kasturba-road",
-      "name": "Bahati",
-      "type": "Nightclub & lounge",
-      "area": "Kasturba Road, CBD",
-      "opened": "2026-10-09",
-      "featured": true,
-      "note": "RJ-DJ Rohit Barker's two-floor sky club with house, Latin and Afro sets.",
-      "body": [
-        "Bahati, Swahili for 'good luck', is RJ and DJ Rohit Barker's newest venture, taking over the 17th and 18th floors of a building on Kasturba Road with views over the Cubbon Park canopy, Kingfisher Tower and Chinnaswamy Stadium.",
-        "The name comes from a blue-eyed leopard Barker and his partners spotted in the Masai Mara. The 17th floor is a low-seated lounge with soft lighting; the upper deck has the dance floor and DJ console. The music leans house, Latin and Afro, with Barker and Nikhil Chinapa on the decks for the opening weekend.",
-        "Cocktails follow the wild theme: Chui (leopard) mixes reposado tequila, mezcal, charred pineapple and Kanthari chillies, and Maridadi (elegant) pairs Scotch with coconut, rooibos and pandan. Cost for two is about ₹5,000."
-      ],
-      "sources": [
-        "https://www.thehindu.com/food/features/rohit-barker-is-betting-big-on-house-and-latin-music-with-his-new-club-in-the-heart-of-bengaluru/article71554688.ece",
-        "https://thepressnotes.com/rj-dj-rohit-barker-opens-new-high-rise-club-bahati-on-kasturba-road/"
-      ]
-    },
-    {
-      "slug": "beanlore-koramangala",
-      "name": "Beanlore",
-      "type": "Café",
-      "area": "Koramangala",
-      "opened": "2026-10-09",
-      "note": "Fourth outlet of the in-house-roasting café, set in a two-floor old Bangalore bungalow.",
-      "body": [],
-      "sources": [
-        "https://hospitalitynews.in/news/beanlore-opens-fourth-outlet-in-koramangala"
-      ]
-    },
-    {
-      "slug": "foo-whitefield",
-      "name": "Foo",
-      "type": "Pan-Asian restaurant & bar",
-      "area": "Whitefield (Essensai 067)",
-      "opened": "2026-10-09",
-      "note": "Fourth Bengaluru Foo: 97 covers, 100+ Pan-Asian tapas, a central bar and an outdoor pergola.",
-      "body": [],
-      "sources": [
-        "http://www.fnbnews.com/Top-News/foo-opens-fourth-bengaluru-outlet-in-whitefield-89054"
       ]
     }
   ]
