@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 02:39",
+  "updated": "2026-11-15 02:33",
   "posts": [
     {
       "slug": "beanlore-koramangala",
@@ -315,52 +315,6 @@
       ],
       "sources": [
         "https://sakhigeetha.com/mdp-coffee-house-btm-layout-bengaluru/"
-      ]
-    },
-    {
-      "slug": "toast-house-indiranagar",
-      "name": "Toast House",
-      "type": "Cafe",
-      "area": "Indiranagar",
-      "opened": "2026-10-15",
-      "note": "A bread-focused cafe built around house-made Japanese shokupan, with savoury sandos, fruit sandwiches and dessert French toast.",
-      "body": [
-        "The menu draws on the bakery and sandwich cultures of Japan, South Korea, Thailand and Vietnam, with picks like Tamago Sando, Chicken Katsu Sando and Dark Chocolate French Toast."
-      ],
-      "sources": [
-        "https://concierge-india.com/news/restaurant/bangalore/toast-house-brings-asianinspired-sandos-to-bengaluru"
-      ]
-    },
-    {
-      "slug": "friyo-indiranagar",
-      "name": "Friyo",
-      "type": "Frozen Greek yogurt & açaí bar",
-      "area": "Indiranagar",
-      "opened": "2026-10-13",
-      "note": "Artisanal frozen Greek yogurt and açaí soft-serve bar with in-house bases and a build-your-own toppings bar. About ₹250–450 per person.",
-      "body": [
-        "Friyo is a new frozen Greek yogurt and açaí soft-serve bar in Indiranagar from founders Debasis Das and Subhasmita Panigrahi, built around small-batch, in-house bases rather than premixes.",
-        "Classic and chocolate frozen Greek yogurt sit alongside a vegan açaí soft-serve and a Mixed Swirl that combines both. Signature cups include Oops All Biscoff, Just Like Snickers, Cherry on Top and Glow Cup, with a toppings bar of house sauces and crunch mixes.",
-        "Desserts are priced about ₹250–450 per person."
-      ],
-      "sources": [
-        "https://concierge-india.com/news/restaurant/bangalore/friyo-brings-frozen-greek-yogurt-and-acai-to-bengaluru"
-      ]
-    },
-    {
-      "slug": "kura-indiranagar",
-      "name": "Kura",
-      "type": "Specialty coffee & all-day café",
-      "area": "Indiranagar",
-      "opened": "2026-10-13",
-      "note": "3,000 sq ft specialty coffee café with an in-house bakery and a French–Japanese all-day kitchen.",
-      "body": [
-        "Kura, named after the Japanese word for a storehouse of treasured possessions, is a new 3,000 sq ft specialty coffee and all-day dining space in Indiranagar from first-time founders Kiran Vijayakumar and Prajwal Venugopal.",
-        "The coffee programme features Indian coffees from the Northeast, Himalayan foothills, Koraput, Araku and the Western Ghats alongside international roasters, with milk-clarified coffees, Frost blended cold brew and three-beverage coffee journeys.",
-        "The kitchen pairs French technique with Japanese precision: house-laminated viennoiserie, pastries and hand-rolled pasta, plus Eggs Benedict, seafood and New Zealand lamb rack on the all-day menu."
-      ],
-      "sources": [
-        "https://concierge-india.com/news/restaurant/bangalore/kura-specialty-coffee-bengaluru"
       ]
     }
   ]
