@@ -1,6 +1,35 @@
 {
-  "updated": "2026-11-16 02:39",
+  "updated": "2026-11-17 02:35",
   "posts": [
+    {
+      "slug": "jsan-indiranagar",
+      "name": "JSan",
+      "type": "Restaurant",
+      "area": "Indiranagar",
+      "opened": "2026-11-16",
+      "note": "Goa's izakaya-style ramen bar opens a 34-seater in an Indiranagar bylane (date is the source's publication date).",
+      "body": [
+        "Broths are simmered for 48 hours with noodles made in-house, and the menu offers six noodle types, from tonkotsu to veggie shoyu ramen, plus small plates like kobujime salmon."
+      ],
+      "sources": [
+        "https://www.thehindu.com/food/dining/goas-favourite-ramen-bar-jsan-opens-in-bengaluru-why-chef-vishesh-jawarani-is-not-afraid-of-the-competition-here/article71692941.ece"
+      ]
+    },
+    {
+      "slug": "chor-bizarre-renaissance-race-course",
+      "name": "Chor Bizarre",
+      "type": "Restaurant",
+      "area": "Renaissance Bengaluru Race Course Hotel",
+      "opened": "2026-11-15",
+      "note": "The Delhi Kashmiri-and-regional Indian restaurant makes its southern debut, with a whisky library bar.",
+      "body": [
+        "Launched on November 15, 2026 with an evening of poetry and conversation with Javed Akhtar and Shabana Azmi; reservations open November 17. The menu mixes Kashmiri specialities like tabak maaz and goshtaba with South Indian dishes such as meen moilee and chicken chettinad.",
+        "It includes Past Times – The Whiskey Library, a bar with 50+ whiskies."
+      ],
+      "sources": [
+        "https://www.bwhotelier.com/article/chor-bizarre-makes-its-southern-debut-at-renaissance-bengaluru-race-course-hotel-633741"
+      ]
+    },
     {
       "slug": "beanlore-koramangala",
       "name": "Beanlore",
