@@ -1,228 +1,242 @@
 {
-  "updated": "2026-11-22 02:40",
-  "posts": [
-    {
-      "slug": "jsan-indiranagar",
-      "name": "JSan",
-      "type": "Restaurant",
-      "area": "Indiranagar",
-      "opened": "2026-11-16",
-      "note": "Goa's izakaya-style ramen bar opens a 34-seater in an Indiranagar bylane (date is the source's publication date).",
-      "body": [
-        "Broths are simmered for 48 hours with noodles made in-house, and the menu offers six noodle types, from tonkotsu to veggie shoyu ramen, plus small plates like kobujime salmon."
-      ],
-      "sources": [
-        "https://www.thehindu.com/food/dining/goas-favourite-ramen-bar-jsan-opens-in-bengaluru-why-chef-vishesh-jawarani-is-not-afraid-of-the-competition-here/article71692941.ece"
-      ]
-    },
-    {
-      "slug": "chor-bizarre-renaissance-race-course",
-      "name": "Chor Bizarre",
-      "type": "Restaurant",
-      "area": "Renaissance Bengaluru Race Course Hotel",
-      "opened": "2026-11-15",
-      "note": "The Delhi Kashmiri-and-regional Indian restaurant makes its southern debut, with a whisky library bar.",
-      "body": [
-        "Launched on November 15, 2026 with an evening of poetry and conversation with Javed Akhtar and Shabana Azmi; reservations open November 17. The menu mixes Kashmiri specialities like tabak maaz and goshtaba with South Indian dishes such as meen moilee and chicken chettinad.",
-        "It includes Past Times – The Whiskey Library, a bar with 50+ whiskies."
-      ],
-      "sources": [
-        "https://www.bwhotelier.com/article/chor-bizarre-makes-its-southern-debut-at-renaissance-bengaluru-race-course-hotel-633741"
-      ]
-    },
-    {
-      "slug": "kuchina-indiranagar",
-      "name": "Kuchina",
-      "type": "Restaurant",
-      "area": "Indiranagar",
-      "opened": "2026-11-15",
-      "note": "Handmade pasta and wine bar from Kompany Hospitality (Soka, Kalpaney), opened in Indiranagar on Nov 15.",
-      "body": [
-        "Fresh dough is made from scratch daily, with pasta rolled, cut and shaped in-house, plus a separate dried pasta programme led by Chef Partner Sombir Chaudhary."
-      ],
-      "sources": [
-        "https://homegrown.co.in/amp/story/homegrown-explore/inside-kuchina-bengalurus-new-restaurant-dedicated-to-the-art-of-handmade-pasta"
-      ]
-    },
-    {
-      "slug": "beanlore-koramangala",
-      "name": "Beanlore",
-      "type": "Café",
-      "area": "Koramangala 4th/8th Block (8th Main Road)",
-      "opened": "2026-11-06",
-      "note": "The neighbourhood café brand's fourth outlet, in an old bungalow with a garden and its first two-floor layout.",
-      "body": [
-        "The ground floor opens into the garden and is kept laptop-free, while the first floor is a work-friendly zone. Coffee is roasted in-house from Chikkamagaluru beans, and the outlet debuts a soft serve counter with flavours that change through the week.",
-        "The brand says a fifth café is expected within three months."
-      ],
-      "sources": [
-        "https://hospitality.economictimes.indiatimes.com/news/restaurants/beanlore-opens-fourth-outlet-set-in-an-old-bungalow-located-in-koramangala-bengaluru/135595882",
-        "https://curlytales.com/india/food/bengaluru-foodies-save-this-list-new-restaurants-cafes-to-visit-this-november/"
-      ]
-    },
-    {
-      "slug": "boston-pub-rr-nagar",
-      "name": "Boston Pub",
-      "type": "Pub",
-      "area": "RR Nagar (80 Feet Road)",
-      "opened": "2026-11-05",
-      "note": "A five-floor, ~12,000 sq ft pub and dining venue for about 400 guests, with rooftop seating and a basement dance floor.",
-      "body": [
-        "Each floor is meant for a different mood: indoor dining and a pub for relaxed evenings, a rooftop for sitting out, and a dance floor downstairs. Interiors by Vinay Agnelo F. D'Almeida mix vintage details with contemporary touches, and DJ nights, live music and themed events are planned.",
-        "Food is built for sharing across Asian and Korean-inspired dishes, Indian appetisers, pizzas and Continental plates, with vegetarian options throughout. Signature cocktails sit alongside non-alcoholic drinks like Ruby Fizz and Baklava Brew. Founded by Subbaiah, Preetham, Hem and Ashwin."
-      ],
-      "sources": [
-        "https://thedailybrunch.com/2026/11/05/boston-pub-rr-nagar-bengaluru/",
-        "https://www.luxuryabode.com/blog/boston-pub-opens-in-bengalurus-rr-nagar-with-five-floors-of-dining-cocktails-and-nightlife/artid4619"
-      ]
-    },
-    {
-      "slug": "coffee-island-beyond-koramangala",
-      "name": "Coffee Island Beyond",
-      "type": "Specialty coffee café",
-      "area": "Koramangala 8th Block (Aswan Plaza, 20th Main Rd)",
-      "opened": "2026-11-04",
-      "note": "The European specialty coffee brand's first Bengaluru store, in its new 'Beyond' format.",
-      "body": [
-        "Coffee Island, which describes itself as Europe's No. 1 specialty coffee brand, runs roughly 9 to 10 cafés across India. The Beyond format pitches an experience that goes past coffee, with a focus on sustainability, mindfulness and community.",
-        "The store is at No. 580, Aswan Plaza, Ground Floor, Satyakrupa, 20th Main Road, Koramangala 8th Block."
-      ],
-      "sources": [
-        "https://www.businessoffood.in/coffee-island-opens-first-beyond-store-in-bengaluru/"
-      ]
-    },
-    {
-      "slug": "buco-indiranagar",
-      "name": "BuCo.",
-      "type": "Bakery cafe",
-      "area": "Indiranagar",
-      "opened": "2026-11-02",
-      "note": "Chef Shriya Shetty's Mangalore-based artisanal bakehouse makes its Bengaluru debut in a bungalow in Indiranagar, with bakes, burgers, desserts and a filter coffee-led drinks menu.",
-      "body": [
-        "The cafe sits under two large rain trees at 6th Cross Road, HAL 2nd Stage, and serves a breakfast menu alongside its signature bakes."
-      ],
-      "sources": [
-        "https://www.thehindu.com/food/features/buco-opens-in-bengaluru-with-a-breakfast-menu-artisanal-bakes-and-a-filter-coffee-first-approach/article71655263.ece",
-        "https://lokazen.in/market-moves/buco-makes-bengaluru-debut-with-artisanal-bakehouse-1604f663"
-      ]
-    },
-    {
-      "slug": "cooke-town-renaissance-race-course",
-      "name": "Cooke Town",
-      "type": "All-day dining restaurant",
-      "area": "Race Course Road",
-      "opened": "2026-11-02",
-      "note": "Renaissance Bengaluru Race Course Hotel's new all-day dining restaurant puts Anglo-Indian cuisine at the heart of its menu.",
-      "body": [
-        "Named after the old Bengaluru neighbourhood, the menu was developed by Executive Chef Ho Chi Ming with Anglo-Indian culinary historian Bridget White-Kumar, alongside select regional and international dishes."
-      ],
-      "sources": [
-        "https://hospibuz.com/hotel/Hotel-listicles/renaissance-bengaluru-race-course-hotel-introduces-cooke-town-a-new-all-day-dining-address-with-an-anglo-indian-soul-12775523",
-        "https://lokazen.in/market-moves/renaissance-bengaluru-race-course-hotel-introduces-cooke-town-all-day-7b831130"
-      ]
-    },
-    {
-      "slug": "barcode-restopub-new-bel-road",
-      "name": "Barcode Restopub",
-      "type": "Pub",
-      "area": "New BEL Road",
-      "opened": "2026-11-01",
-      "note": "A new restopub on New BEL Road, inaugurated on Sunday, November 1 with Kannada actor Gilli Nata cutting the ribbon.",
-      "sources": [
-        "https://inblr.today/news/bengaluru-gilli-nata-grand-entry-dance-new-pub-opening-bel-road",
-        "https://kannada.asianetnews.com/entertainment/gilli-nata-barcode-restopub-grand-opening-bengaluru-suh/articleshow-xo1uiu4"
-      ],
-      "body": [
-        "The pub was started by Sudhakar Gowda, a close friend of Gilli Nata, and the launch also drew actors Arun Gowda and Payal."
-      ]
-    },
-    {
-      "slug": "coffee-buddy-indiranagar",
-      "name": "Coffee Buddy",
-      "type": "Cafe",
-      "area": "Indiranagar",
-      "opened": "2026-10-29",
-      "note": "The Filipino coffee chain opens its Bengaluru outlet in Indiranagar, serving premium coffee made with 100% Arabica and Robusta beans.",
-      "body": [
-        "Coffee Buddy started in 2019 as a small online coffee bean store in Manila and came to India through a master franchise with Franchise India, opening first in Mumbai in August 2026."
-      ],
-      "sources": [
-        "https://www.indianretailer.com/franchisetv/archives/news/franchisetv-exclusive-coffee-buddy-opens-new-outlet-bangalore"
-      ]
-    },
-    {
-      "slug": "gato-house-hsr-layout",
-      "name": "GATO House",
-      "type": "Cafe",
-      "area": "HSR Layout (22nd Cross, 20th Main Rd, Sector 2)",
-      "opened": "2026-10-28",
-      "note": "A new cafe for brews, bakes and Pan-Asian food, with drinks like Rose Matcha, Kyoto Blanc and cold brews served on tap.",
-      "body": [
-        "Open 11 am to 11:30 pm, about ₹1,500 for two."
-      ],
-      "sources": [
-        "https://curlytales.com/india/food/bengaluru-foodies-save-this-list-new-restaurants-cafes-to-visit-this-november/"
-      ]
-    },
-    {
-      "slug": "koko-samba-brookefield",
-      "name": "Koko Samba",
-      "type": "Restaurant & bar",
-      "area": "Brookefield (Brookefield Main Road)",
-      "opened": "2026-10-27",
-      "note": "A 42,000 sq ft fire-lit restaurant and bar with space for 750 covers, pitched somewhere between a loud brewery and a quiet cocktail bar.",
-      "body": [
-        "Food is built for sharing at the centre of the table, and some evenings bring drums, dance and performance while others stay quieter.",
-        "Interiors by Abhigyan Neogi draw on tribal and tropical settings, with rock formations, a water body and water-wheel, bamboo, cane and thatch."
-      ],
-      "sources": [
-        "https://hospitality.economictimes.indiatimes.com/news/restaurants/koko-samba-brings-a-world-of-its-own-to-brookefield-bengaluru/135225227",
-        "https://thedailybrunch.com/2026/11/03/koko-samba-brookefield-bengaluru/"
-      ]
-    },
-    {
-      "slug": "chifa-marathahalli",
-      "name": "Chifa",
-      "type": "Restaurant",
-      "area": "Marathahalli",
-      "opened": "2026-10-27",
-      "note": "A Chinese-Peruvian restaurant built around migration cuisine, blending Chinese cooking techniques with Peruvian flavours.",
-      "body": [
-        "It has three dining spaces: The Valley, an intimate room; The Crossing, built for social gatherings; and The Canopy, an outdoor area overlooking the city."
-      ],
-      "sources": [
-        "https://www.restaurantindia.in/news/chifa-enters-bengaluru-s-marathahalli-with-chinese-peruvian-cuisine.n17527"
-      ]
-    },
-    {
-      "slug": "4-degrees-mark-square",
-      "name": "4°",
-      "type": "Greek yogurt dessert kiosk",
-      "area": "St Mark's Road (Mark Square)",
-      "opened": "2026-10-25",
-      "note": "The Chennai-born Greek yogurt brand's first Bengaluru kiosk, serving slow-churned, preservative-free, all-vegetarian yogurt as dessert.",
-      "body": [
-        "The yogurt is served chilled rather than frozen for a thick, velvety texture, with 6 to 8 grams of protein per scoop. Open daily from noon to 10pm."
-      ],
-      "sources": [
-        "https://businessnewsthisweek.com/business/greek-yogurt-done-the-greek-way-4-opens-its-first-bengaluru-outlet-at-mark-square/"
-      ]
-    },
-    {
-      "slug": "brahma-brews-ecospace-bellandur",
-      "name": "Brahma Brews",
-      "type": "Microbrewery & restaurant",
-      "area": "Bellandur (Ecospace, ORR)",
-      "opened": "2026-10-24",
-      "note": "Second Bengaluru microbrewery from the JP Nagar brewpub: a 17,000 sq ft space for 700+ guests with six house beers brewed on site.",
-      "body": [
-        "Beers come off a 10-hectolitre system on site, with a lineup including Belgian Wit, Weizenbock, Mango Ale, the pineapple beer Ananas and Ayurveda, a hibiscus-and-rose brew.",
-        "The tropical-styled space has community tables, private booths and semi-open outdoor areas, and the kitchen runs 150+ Indian, Asian, Continental and European dishes."
-      ],
-      "sources": [
-        "https://www.indiaretailing.com/brahma-brews-launches-17000-sq-ft-brewery-and-dining-outlet-at-ecospace-bengaluru-",
-        "https://asiabrewersnetwork.com/news/brahma-brews-expands-with-major-new-bengaluru-microbrewery"
-      ]
-    }
-  ]
+ "updated": "2026-11-23 02:40",
+ "posts": [
+  {
+   "slug": "la-verde-cafe-ulsoor",
+   "name": "La Verde Cafe",
+   "type": "Cafe",
+   "area": "Ulsoor",
+   "opened": "2026-11-20",
+   "note": "Wellness cafe inside the Ignite + Aliign fitness studio on Kensington Road by Ulsoor Lake (date is the source's publication date).",
+   "body": [
+    "The menu centres on functional beverages, superfood-led drinks and dishes, with a hydration bar and pastries from local bakers."
+   ],
+   "sources": [
+    "https://www.thehindu.com/food/dining/bengalurus-newest-wellness-cafe-wants-you-to-eat-mindfully-and-stay-hydrated/article71660274.ece"
+   ]
+  },
+  {
+   "slug": "jsan-indiranagar",
+   "name": "JSan",
+   "type": "Restaurant",
+   "area": "Indiranagar",
+   "opened": "2026-11-16",
+   "note": "Goa's izakaya-style ramen bar opens a 34-seater in an Indiranagar bylane (date is the source's publication date).",
+   "body": [
+    "Broths are simmered for 48 hours with noodles made in-house, and the menu offers six noodle types, from tonkotsu to veggie shoyu ramen, plus small plates like kobujime salmon."
+   ],
+   "sources": [
+    "https://www.thehindu.com/food/dining/goas-favourite-ramen-bar-jsan-opens-in-bengaluru-why-chef-vishesh-jawarani-is-not-afraid-of-the-competition-here/article71692941.ece"
+   ]
+  },
+  {
+   "slug": "chor-bizarre-renaissance-race-course",
+   "name": "Chor Bizarre",
+   "type": "Restaurant",
+   "area": "Renaissance Bengaluru Race Course Hotel",
+   "opened": "2026-11-15",
+   "note": "The Delhi Kashmiri-and-regional Indian restaurant makes its southern debut, with a whisky library bar.",
+   "body": [
+    "Launched on November 15, 2026 with an evening of poetry and conversation with Javed Akhtar and Shabana Azmi; reservations open November 17. The menu mixes Kashmiri specialities like tabak maaz and goshtaba with South Indian dishes such as meen moilee and chicken chettinad.",
+    "It includes Past Times – The Whiskey Library, a bar with 50+ whiskies."
+   ],
+   "sources": [
+    "https://www.bwhotelier.com/article/chor-bizarre-makes-its-southern-debut-at-renaissance-bengaluru-race-course-hotel-633741"
+   ]
+  },
+  {
+   "slug": "kuchina-indiranagar",
+   "name": "Kuchina",
+   "type": "Restaurant",
+   "area": "Indiranagar",
+   "opened": "2026-11-15",
+   "note": "Handmade pasta and wine bar from Kompany Hospitality (Soka, Kalpaney), opened in Indiranagar on Nov 15.",
+   "body": [
+    "Fresh dough is made from scratch daily, with pasta rolled, cut and shaped in-house, plus a separate dried pasta programme led by Chef Partner Sombir Chaudhary."
+   ],
+   "sources": [
+    "https://homegrown.co.in/amp/story/homegrown-explore/inside-kuchina-bengalurus-new-restaurant-dedicated-to-the-art-of-handmade-pasta"
+   ]
+  },
+  {
+   "slug": "beanlore-koramangala",
+   "name": "Beanlore",
+   "type": "Café",
+   "area": "Koramangala 4th/8th Block (8th Main Road)",
+   "opened": "2026-11-06",
+   "note": "The neighbourhood café brand's fourth outlet, in an old bungalow with a garden and its first two-floor layout.",
+   "body": [
+    "The ground floor opens into the garden and is kept laptop-free, while the first floor is a work-friendly zone. Coffee is roasted in-house from Chikkamagaluru beans, and the outlet debuts a soft serve counter with flavours that change through the week.",
+    "The brand says a fifth café is expected within three months."
+   ],
+   "sources": [
+    "https://hospitality.economictimes.indiatimes.com/news/restaurants/beanlore-opens-fourth-outlet-set-in-an-old-bungalow-located-in-koramangala-bengaluru/135595882",
+    "https://curlytales.com/india/food/bengaluru-foodies-save-this-list-new-restaurants-cafes-to-visit-this-november/"
+   ]
+  },
+  {
+   "slug": "boston-pub-rr-nagar",
+   "name": "Boston Pub",
+   "type": "Pub",
+   "area": "RR Nagar (80 Feet Road)",
+   "opened": "2026-11-05",
+   "note": "A five-floor, ~12,000 sq ft pub and dining venue for about 400 guests, with rooftop seating and a basement dance floor.",
+   "body": [
+    "Each floor is meant for a different mood: indoor dining and a pub for relaxed evenings, a rooftop for sitting out, and a dance floor downstairs. Interiors by Vinay Agnelo F. D'Almeida mix vintage details with contemporary touches, and DJ nights, live music and themed events are planned.",
+    "Food is built for sharing across Asian and Korean-inspired dishes, Indian appetisers, pizzas and Continental plates, with vegetarian options throughout. Signature cocktails sit alongside non-alcoholic drinks like Ruby Fizz and Baklava Brew. Founded by Subbaiah, Preetham, Hem and Ashwin."
+   ],
+   "sources": [
+    "https://thedailybrunch.com/2026/11/05/boston-pub-rr-nagar-bengaluru/",
+    "https://www.luxuryabode.com/blog/boston-pub-opens-in-bengalurus-rr-nagar-with-five-floors-of-dining-cocktails-and-nightlife/artid4619"
+   ]
+  },
+  {
+   "slug": "coffee-island-beyond-koramangala",
+   "name": "Coffee Island Beyond",
+   "type": "Specialty coffee café",
+   "area": "Koramangala 8th Block (Aswan Plaza, 20th Main Rd)",
+   "opened": "2026-11-04",
+   "note": "The European specialty coffee brand's first Bengaluru store, in its new 'Beyond' format.",
+   "body": [
+    "Coffee Island, which describes itself as Europe's No. 1 specialty coffee brand, runs roughly 9 to 10 cafés across India. The Beyond format pitches an experience that goes past coffee, with a focus on sustainability, mindfulness and community.",
+    "The store is at No. 580, Aswan Plaza, Ground Floor, Satyakrupa, 20th Main Road, Koramangala 8th Block."
+   ],
+   "sources": [
+    "https://www.businessoffood.in/coffee-island-opens-first-beyond-store-in-bengaluru/"
+   ]
+  },
+  {
+   "slug": "buco-indiranagar",
+   "name": "BuCo.",
+   "type": "Bakery cafe",
+   "area": "Indiranagar",
+   "opened": "2026-11-02",
+   "note": "Chef Shriya Shetty's Mangalore-based artisanal bakehouse makes its Bengaluru debut in a bungalow in Indiranagar, with bakes, burgers, desserts and a filter coffee-led drinks menu.",
+   "body": [
+    "The cafe sits under two large rain trees at 6th Cross Road, HAL 2nd Stage, and serves a breakfast menu alongside its signature bakes."
+   ],
+   "sources": [
+    "https://www.thehindu.com/food/features/buco-opens-in-bengaluru-with-a-breakfast-menu-artisanal-bakes-and-a-filter-coffee-first-approach/article71655263.ece",
+    "https://lokazen.in/market-moves/buco-makes-bengaluru-debut-with-artisanal-bakehouse-1604f663"
+   ]
+  },
+  {
+   "slug": "cooke-town-renaissance-race-course",
+   "name": "Cooke Town",
+   "type": "All-day dining restaurant",
+   "area": "Race Course Road",
+   "opened": "2026-11-02",
+   "note": "Renaissance Bengaluru Race Course Hotel's new all-day dining restaurant puts Anglo-Indian cuisine at the heart of its menu.",
+   "body": [
+    "Named after the old Bengaluru neighbourhood, the menu was developed by Executive Chef Ho Chi Ming with Anglo-Indian culinary historian Bridget White-Kumar, alongside select regional and international dishes."
+   ],
+   "sources": [
+    "https://hospibuz.com/hotel/Hotel-listicles/renaissance-bengaluru-race-course-hotel-introduces-cooke-town-a-new-all-day-dining-address-with-an-anglo-indian-soul-12775523",
+    "https://lokazen.in/market-moves/renaissance-bengaluru-race-course-hotel-introduces-cooke-town-all-day-7b831130"
+   ]
+  },
+  {
+   "slug": "barcode-restopub-new-bel-road",
+   "name": "Barcode Restopub",
+   "type": "Pub",
+   "area": "New BEL Road",
+   "opened": "2026-11-01",
+   "note": "A new restopub on New BEL Road, inaugurated on Sunday, November 1 with Kannada actor Gilli Nata cutting the ribbon.",
+   "sources": [
+    "https://inblr.today/news/bengaluru-gilli-nata-grand-entry-dance-new-pub-opening-bel-road",
+    "https://kannada.asianetnews.com/entertainment/gilli-nata-barcode-restopub-grand-opening-bengaluru-suh/articleshow-xo1uiu4"
+   ],
+   "body": [
+    "The pub was started by Sudhakar Gowda, a close friend of Gilli Nata, and the launch also drew actors Arun Gowda and Payal."
+   ]
+  },
+  {
+   "slug": "coffee-buddy-indiranagar",
+   "name": "Coffee Buddy",
+   "type": "Cafe",
+   "area": "Indiranagar",
+   "opened": "2026-10-29",
+   "note": "The Filipino coffee chain opens its Bengaluru outlet in Indiranagar, serving premium coffee made with 100% Arabica and Robusta beans.",
+   "body": [
+    "Coffee Buddy started in 2019 as a small online coffee bean store in Manila and came to India through a master franchise with Franchise India, opening first in Mumbai in August 2026."
+   ],
+   "sources": [
+    "https://www.indianretailer.com/franchisetv/archives/news/franchisetv-exclusive-coffee-buddy-opens-new-outlet-bangalore"
+   ]
+  },
+  {
+   "slug": "gato-house-hsr-layout",
+   "name": "GATO House",
+   "type": "Cafe",
+   "area": "HSR Layout (22nd Cross, 20th Main Rd, Sector 2)",
+   "opened": "2026-10-28",
+   "note": "A new cafe for brews, bakes and Pan-Asian food, with drinks like Rose Matcha, Kyoto Blanc and cold brews served on tap.",
+   "body": [
+    "Open 11 am to 11:30 pm, about ₹1,500 for two."
+   ],
+   "sources": [
+    "https://curlytales.com/india/food/bengaluru-foodies-save-this-list-new-restaurants-cafes-to-visit-this-november/"
+   ]
+  },
+  {
+   "slug": "koko-samba-brookefield",
+   "name": "Koko Samba",
+   "type": "Restaurant & bar",
+   "area": "Brookefield (Brookefield Main Road)",
+   "opened": "2026-10-27",
+   "note": "A 42,000 sq ft fire-lit restaurant and bar with space for 750 covers, pitched somewhere between a loud brewery and a quiet cocktail bar.",
+   "body": [
+    "Food is built for sharing at the centre of the table, and some evenings bring drums, dance and performance while others stay quieter.",
+    "Interiors by Abhigyan Neogi draw on tribal and tropical settings, with rock formations, a water body and water-wheel, bamboo, cane and thatch."
+   ],
+   "sources": [
+    "https://hospitality.economictimes.indiatimes.com/news/restaurants/koko-samba-brings-a-world-of-its-own-to-brookefield-bengaluru/135225227",
+    "https://thedailybrunch.com/2026/11/03/koko-samba-brookefield-bengaluru/"
+   ]
+  },
+  {
+   "slug": "chifa-marathahalli",
+   "name": "Chifa",
+   "type": "Restaurant",
+   "area": "Marathahalli",
+   "opened": "2026-10-27",
+   "note": "A Chinese-Peruvian restaurant built around migration cuisine, blending Chinese cooking techniques with Peruvian flavours.",
+   "body": [
+    "It has three dining spaces: The Valley, an intimate room; The Crossing, built for social gatherings; and The Canopy, an outdoor area overlooking the city."
+   ],
+   "sources": [
+    "https://www.restaurantindia.in/news/chifa-enters-bengaluru-s-marathahalli-with-chinese-peruvian-cuisine.n17527"
+   ]
+  },
+  {
+   "slug": "4-degrees-mark-square",
+   "name": "4°",
+   "type": "Greek yogurt dessert kiosk",
+   "area": "St Mark's Road (Mark Square)",
+   "opened": "2026-10-25",
+   "note": "The Chennai-born Greek yogurt brand's first Bengaluru kiosk, serving slow-churned, preservative-free, all-vegetarian yogurt as dessert.",
+   "body": [
+    "The yogurt is served chilled rather than frozen for a thick, velvety texture, with 6 to 8 grams of protein per scoop. Open daily from noon to 10pm."
+   ],
+   "sources": [
+    "https://businessnewsthisweek.com/business/greek-yogurt-done-the-greek-way-4-opens-its-first-bengaluru-outlet-at-mark-square/"
+   ]
+  },
+  {
+   "slug": "brahma-brews-ecospace-bellandur",
+   "name": "Brahma Brews",
+   "type": "Microbrewery & restaurant",
+   "area": "Bellandur (Ecospace, ORR)",
+   "opened": "2026-10-24",
+   "note": "Second Bengaluru microbrewery from the JP Nagar brewpub: a 17,000 sq ft space for 700+ guests with six house beers brewed on site.",
+   "body": [
+    "Beers come off a 10-hectolitre system on site, with a lineup including Belgian Wit, Weizenbock, Mango Ale, the pineapple beer Ananas and Ayurveda, a hibiscus-and-rose brew.",
+    "The tropical-styled space has community tables, private booths and semi-open outdoor areas, and the kitchen runs 150+ Indian, Asian, Continental and European dishes."
+   ],
+   "sources": [
+    "https://www.indiaretailing.com/brahma-brews-launches-17000-sq-ft-brewery-and-dining-outlet-at-ecospace-bengaluru-",
+    "https://asiabrewersnetwork.com/news/brahma-brews-expands-with-major-new-bengaluru-microbrewery"
+   ]
+  }
+ ]
 }
