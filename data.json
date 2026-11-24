@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-24 02:45",
+ "updated": "2026-11-25 02:35",
  "posts": [
+  {
+   "slug": "supa-san-bengaluru",
+   "name": "Supa San",
+   "type": "Restaurant",
+   "area": "Bengaluru",
+   "opened": "2026-11-24",
+   "note": "Japanese izakaya from Aditya Birla New Age Hospitality; 108-seater (date is the source's publication date).",
+   "body": [
+    "Shared-plate izakaya menu with sushi, robatayaki, ramen and Japanese curry, plus tea-based cocktails, highballs, sake and zero-proof drinks."
+   ],
+   "sources": [
+    "https://www.restaurantindia.in/news/aditya-birlas-abnah-brings-japanese-izakaya-concept-supa-san-to-bengaluru.n17732"
+   ]
+  },
   {
    "slug": "la-verde-cafe-ulsoor",
    "name": "La Verde Cafe",
@@ -206,20 +220,6 @@
    ],
    "sources": [
     "https://www.restaurantindia.in/news/chifa-enters-bengaluru-s-marathahalli-with-chinese-peruvian-cuisine.n17527"
-   ]
-  },
-  {
-   "slug": "4-degrees-mark-square",
-   "name": "4°",
-   "type": "Greek yogurt dessert kiosk",
-   "area": "St Mark's Road (Mark Square)",
-   "opened": "2026-10-25",
-   "note": "The Chennai-born Greek yogurt brand's first Bengaluru kiosk, serving slow-churned, preservative-free, all-vegetarian yogurt as dessert.",
-   "body": [
-    "The yogurt is served chilled rather than frozen for a thick, velvety texture, with 6 to 8 grams of protein per scoop. Open daily from noon to 10pm."
-   ],
-   "sources": [
-    "https://businessnewsthisweek.com/business/greek-yogurt-done-the-greek-way-4-opens-its-first-bengaluru-outlet-at-mark-square/"
    ]
   }
  ]
