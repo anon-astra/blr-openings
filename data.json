@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-25 02:35",
+ "updated": "2026-11-26 02:40",
  "posts": [
+  {
+   "slug": "blr-bistro-phoenix-mall-of-asia",
+   "name": "BLR Bistro",
+   "type": "Restaurant",
+   "area": "Phoenix Mall of Asia",
+   "opened": "2026-11-25",
+   "note": "New restaurant at Phoenix Mall of Asia drawing on Bengaluru's coffee houses, bakeries and military hotels (date is the source's publication date).",
+   "body": [
+    "The menu includes Butter Chicken Wings, Cubbon Paneer and Potlam Biryani."
+   ],
+   "sources": [
+    "https://www.indianretailer.com/news/blr-bistro-opens-new-restaurant-phoenix-mall-asia-bengaluru"
+   ]
+  },
+  {
+   "slug": "beyondburg-whitefield",
+   "name": "Beyondburg",
+   "type": "Restaurant",
+   "area": "Whitefield",
+   "opened": "2026-11-25",
+   "note": "Burger brand's new NYC subway-inspired flagship in Whitefield (date is the source's publication date).",
+   "body": [
+    "The design draws on New York's subway system, following the team's three-day pop-up in New York with 7th Street Burger."
+   ],
+   "sources": [
+    "https://hospitality.economictimes.indiatimes.com/news/restaurants/beyondburg-opens-new-nyc-subway-inspired-flagship-store-in-whitefield-bengaluru/136155014"
+   ]
+  },
   {
    "slug": "supa-san-bengaluru",
    "name": "Supa San",
